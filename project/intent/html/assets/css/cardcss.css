@@ -1,0 +1,19 @@
+.col-12{
+    height: 70px;
+    color: #dbd6d6;
+    background-color: rgb(0, 0, 0);
+}
+/* title */
+.font{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 50px;
+}
+.poster{
+    width: 100%;
+}
+/* paragraph font style */
+.pfont{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}

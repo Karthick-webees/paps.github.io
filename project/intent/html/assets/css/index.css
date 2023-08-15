@@ -1,0 +1,71 @@
+/* Top bar */
+.col-12{
+    height: 70px;
+    color: #dbd6d6;
+    background-color: rgb(0, 0, 0);
+}
+.font{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 50px;
+}
+/* card design */
+.container {
+    padding-top: 3px;
+    height: 24em;
+    width: 50em;
+    border: black;
+    border-radius: 4px;
+    display: inline-block;
+	background-color: rgb(241, 235, 227);
+ } 
+ .card1{
+    padding-top: 60px;
+    padding: 16px 15px 15px 10px;
+    display: inline-block;
+    align-items: center;
+    border-radius: 15px;
+ }
+ /* card hover effort */
+ .container:hover{
+    box-shadow: 5px 3px 2px 2px rgb(236, 243, 245);
+ }
+ .img{
+    height: 15em;
+    width: 25em;
+    padding: 5px;
+    border-radius: 8px;
+ }
+ h6{
+    color: #ffffff;
+ }
+ #title{
+    font-size: 25px;  
+    font-family: 'Lora', serif; 
+    padding-bottom: 0px;
+}
+/* font awesome for star icon */
+.checked {
+    color: orange;
+  }
+  /* Rating */
+.con-container{
+    margin-top: -35px;
+    margin-right: 0em;
+    margin-bottom: 0em;
+    margin-left: 0px;
+    padding-left: 0em;
+    margin-right: 5px;
+}
+/* Movie review button */
+.btn2{
+    display: flex;
+    margin-top: -12px;
+    margin-right: 0em;
+    margin-bottom: 0em;
+    margin-left: 265px;
+    padding-left: 10em;
+}
+.HollyWood{
+    background-color: aqua;
+}
